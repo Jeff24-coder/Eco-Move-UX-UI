@@ -65,7 +65,7 @@ https://lucid.app/lucidchart/1639bee4-b92c-4ded-b5e9-b9f7db8931b4/edit?viewport_
 https://lucid.app/lucidchart/4148bb14-57d6-4186-a412-1add00d1c024/edit?viewport_loc=-4524%2C-31%2C3670%2C1765%2C0_0&invitationId=inv_415d465f-05ba-430e-b7b3-cf7e7bb98e6d
 
 
-Prototipo (Figma):
+# Prototipo (Figma):
 
 Se desarrolló un prototipo de media fidelidad en escala de grises, enfocado en mejorar la experiencia de usuario mediante una interfaz clara, consistente y fácil de usar.
 
